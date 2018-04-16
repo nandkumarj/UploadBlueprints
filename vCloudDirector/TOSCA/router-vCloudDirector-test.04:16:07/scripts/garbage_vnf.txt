@@ -1,0 +1,2 @@
+This is a garbage vnf for garbage nfv generated from Garbage 
+generating VNF Onboarding tool
